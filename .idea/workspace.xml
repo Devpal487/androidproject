@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidConfiguredLogFilters">
+    <filters>
+      <filter>
+        <option name="logLevel" value="verbose" />
+        <option name="logMessagePattern" value="" />
+        <option name="logTagPattern" value="" />
+        <option name="name" value="Chat" />
+        <option name="packageNamePattern" value="com.dreams.chat" />
+        <option name="pid" value="" />
+      </filter>
+    </filters>
+  </component>
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <device id="pixel" />
+        <device id="pixel_xl" />
+        <device id="pixel_3_xl" />
+        <device id="pixel_2" />
+        <device id="Nexus 6P" />
+        <device id="pixel_3a_xl" />
+        <device id="pixel_3a" />
+        <device id="pixel_3" />
+      </config>
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f344eb15-0fee-47de-a182-5b15c297c52a" name="Default Changelist" comment="Mani - 24-04-2020 - Initial commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="053313202L000334" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/app">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="DreamsChat" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="valueResourceFile" />
+        <option value="layoutResourceFile_vertical" />
+        <option value="Class" />
+        <option value="layoutResourceFile" />
+        <option value="resourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="EXPORT_PRIVATE_KEY" value="false" />
+    <option name="KEY_STORE_PATH" value="E:\dreams-chat-DreamsChat-branch-phase02\app\dreamschat.jks" />
+    <option name="KEY_ALIAS" value="dreamschat" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
+  </component>
+  <component name="ProjectId" id="1aWx2Jweov456GOoXpRZp2krzr9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DEBUGGABLE_DEVICE" value="sony-g3112-RQ3005JLD3" />
+    <property name="DEBUGGABLE_PROCESS" value="com.dreams.chat" />
+    <property name="DEBUGGER_ID" value="Auto" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_XL_API_25" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-04-08T09:10:29.142Z" />
+    <property name="ExportApk.ApkPath" value="E:\dreams-chat-DreamsChat-branch-phase02\app" />
+    <property name="ExportApk.BuildVariants" value="release" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
+    <property name="ScreenshotViewer.SavePath" value="$USER_HOME$/Desktop/DreamsChat ScreenShots" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi" />
+    <property name="not.eligible.for.single.variant.sync" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Template Data Languages" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.dreams.chat.activities" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.dreams.chat.activities" />
+      <recent name="com.dreams.chat.fragments" />
+      <recent name="com.dreams.chat.status" />
+      <recent name="com.dreams.chat.models" />
+      <recent name="com.dreams.chat.adapters" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\android\dreamchat\dreamchat\DreamsChat\app\src\main\res\drawable-xhdpi" />
+      <recent name="D:\android\dreamchat\dreamchat\DreamsChat\app\src\main\res\layout" />
+      <recent name="D:\android\dreamchat\dreamchat\DreamsChat\app\src\main\res\drawable-xxxhdpi" />
+      <recent name="D:\android\dreamchat\dreamchat\DreamsChat\app\src\main\java\com\dreams\chat\activities" />
+      <recent name="D:\android\dreamchat\dreamchat\DreamsChat\app" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="m" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DreamsChat [signingReport]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="signingReport" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="DreamsChat:app [bundleDebug]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/app" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="bundleDebug" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="DreamsChat:app [cleanBuildCache]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/app" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="cleanBuildCache" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="DreamsChat:app [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/app" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.DreamsChat:app [cleanBuildCache]" />
+        <item itemvalue="Gradle.DreamsChat:app [bundleDebug]" />
+        <item itemvalue="Gradle.DreamsChat:app [clean]" />
+        <item itemvalue="Gradle.DreamsChat [signingReport]" />
+        <item itemvalue="Gradle.DreamsChat [signingReport]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\devendra\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f344eb15-0fee-47de-a182-5b15c297c52a" name="Default Changelist" comment="" />
+      <created>1569827177486</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569827177486</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1571035764456</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1571035764456</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Mani - 18-10-2019 - Status multiple photo upload">
+      <created>1571373390961</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1571373390961</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Mani - 24-10-2019 - bug fixing">
+      <created>1571894719383</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1571894719383</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Mani - 29-10-2019 - status swipe and reply">
+      <created>1572354552340</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1572354552340</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Mani - 01-11-2019 - bug fixing">
+      <created>1572606804916</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1572606804916</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Mani - 07-11-2019 - UI Changes, added message counter">
+      <created>1573116941412</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1573116941412</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Mani - 06-04-2020 - Initial commit">
+      <created>1586178435665</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1586178435665</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Mani - 07-04-2020 - Initial commit">
+      <created>1586258377044</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1586258377044</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Mani - 08-04-2020 - New UI Design">
+      <created>1586336919125</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1586336919126</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Mani - 14-04-2020 - Bug fixing">
+      <created>1586862105243</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1586862105243</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Mani - 16-04-2020 - Bug fixing">
+      <created>1587036211083</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1587036211083</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Mani - 20-04-2020 - Bug fixing">
+      <created>1587383988126</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1587383988126</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Mani - 07-04-2020 - Initial commit">
+      <created>1587725754632</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1587725754632</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Mani - 27-04-2020 - Bug fixing">
+      <created>1587968298157</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1587968298157</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Mani - 04-05-2020 - Bug Fixing">
+      <created>1588594429058</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1588594429058</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Mani - 05-05-2020 - Bug Fixing">
+      <created>1588682027430</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1588682027430</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="Mani - 18-10-2019 - Status multiple photo upload" />
+    <MESSAGE value="Mani - 24-10-2019 - bug fixing" />
+    <MESSAGE value="Mani - 29-10-2019 - status swipe and reply" />
+    <MESSAGE value="Mani - 01-11-2019 - bug fixing" />
+    <MESSAGE value="Mani - 07-11-2019 - UI Changes, added message counter" />
+    <MESSAGE value="Mani - 06-04-2020 - Initial commit" />
+    <MESSAGE value="Mani - 08-04-2020 - New UI Design" />
+    <MESSAGE value="Mani - 14-04-2020 - Bug fixing" />
+    <MESSAGE value="Mani - 16-04-2020 - Bug fixing" />
+    <MESSAGE value="Mani - 20-04-2020 - Bug fixing" />
+    <MESSAGE value="Mani - 07-04-2020 - Initial commit" />
+    <MESSAGE value="Mani - 24-04-2020 - Initial commit" />
+    <MESSAGE value="Mani - 27-04-2020 - Bug fixing" />
+    <MESSAGE value="Mani - 04-05-2020 - Bug Fixing" />
+    <MESSAGE value="Mani - 05-05-2020 - Bug Fixing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mani - 05-05-2020 - Bug Fixing" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="157" y="71" key="#PSD" timestamp="1604341925971">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="157" y="71" key="#PSD/0.0.1280.680@0.0.1280.680" timestamp="1604341925971" />
+    <state x="359" y="0" key="#app" timestamp="1603741359579">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="359" y="0" key="#app/0.0.1280.680@0.0.1280.680" timestamp="1603741359579" />
+    <state x="370" y="86" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604027167307">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="370" y="86" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1604027167307" />
+    <state x="220" y="94" key="AndroidCreateResourceFileDialog" timestamp="1604031899274">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="220" y="94" key="AndroidCreateResourceFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1604031899274" />
+    <state width="488" height="438" key="DebuggerActiveHint" timestamp="1606190312758">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="488" height="438" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1606190312758" />
+    <state x="420" y="94" key="FileChooserDialogImpl" timestamp="1604426500132">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="420" y="94" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1604426500132" />
+    <state width="1236" height="103" key="GridCell.Tab.0.bottom" timestamp="1606188294956">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="103" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1606188294956" />
+    <state width="1236" height="103" key="GridCell.Tab.0.center" timestamp="1606188294955">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="103" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1606188294955" />
+    <state width="1236" height="103" key="GridCell.Tab.0.left" timestamp="1606188294954">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="103" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1606188294954" />
+    <state width="1236" height="103" key="GridCell.Tab.0.right" timestamp="1606188294955">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="103" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1606188294955" />
+    <state width="1236" height="103" key="GridCell.Tab.1.bottom" timestamp="1606188346055">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="103" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1606188346055" />
+    <state width="1236" height="103" key="GridCell.Tab.1.center" timestamp="1606188346054">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="103" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1606188346054" />
+    <state width="1236" height="103" key="GridCell.Tab.1.left" timestamp="1606188346054">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="103" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1606188346054" />
+    <state width="1236" height="103" key="GridCell.Tab.1.right" timestamp="1606188346055">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="103" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1606188346055" />
+    <state x="141" y="0" key="SettingsEditor" timestamp="1604025757877">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="141" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1604025757877" />
+    <state x="456" y="117" key="chooseDestDirectoryDialog" timestamp="1603996824806">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="456" y="117" key="chooseDestDirectoryDialog/0.0.1280.680@0.0.1280.680" timestamp="1603996824806" />
+    <state x="335" y="162" key="com.intellij.ide.util.TipDialog" timestamp="1605979830771">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="335" y="162" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1605979830771" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1604848782283">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1604848782283" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/dreams/chat/adapters/MenuUsersRecyclerAdapter.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/dreams/chat/services/FirebaseChatService.java</url>
+          <line>295</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/dreams/chat/activities/ChatActivity.java</url>
+          <line>1485</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/dreams/chat/fragments/OptionsFragment.java</url>
+          <line>315</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/dreams/chat/fragments/OptionsFragment.java</url>
+          <line>418</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/dreams/chat/fragments/OptionsFragment.java</url>
+          <line>354</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/settings.gradle</url>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/dreams/chat/BaseApplication.java</url>
+          <line>87</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/dreams/chat/services/FetchMyUsersService.java</url>
+          <line>115</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/dreams/chat/services/FirebaseChatService.java</url>
+          <line>546</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/dreams/chat/services/FirebaseChatService.java</url>
+          <line>508</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/dreams/chat/fragments/ChatDetailFragment.java</url>
+          <line>597</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/dreams/chat/fragments/ChatDetailFragment.java</url>
+          <line>612</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/dreams/chat/fragments/ChatDetailFragment.java</url>
+          <line>201</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/dreams/chat/fragments/ChatDetailFragment.java</url>
+          <line>146</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/dreams/chat/activities/PostpageActivity.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/dreams/chat/fragments/ChatDetailFragment.java</url>
+          <line>195</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/dreams/chat/fragments/ChatDetailFragment.java</url>
+          <line>233</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/dreams/chat/fragments/ChatDetailFragment.java</url>
+          <line>141</line>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/dreams/chat/fragments/ChatDetailFragment.java</url>
+          <line>196</line>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/dreams/chat/fragments/ChatDetailFragment.java</url>
+          <line>445</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/dreams/chat/fragments/ChatDetailFragment.java</url>
+          <line>452</line>
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/dreams/chat/fragments/ChatDetailFragment.java</url>
+          <line>543</line>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/dreams/chat/fragments/ChatDetailFragment.java</url>
+          <line>100</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/dreams/chat/fragments/ChatDetailFragment.java</url>
+          <line>105</line>
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/dreams/chat/fragments/ChatDetailFragment.java</url>
+          <line>85</line>
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

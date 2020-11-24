@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "72787172970",
+    "firebase_url": "https://dreamschat-b49f9.firebaseio.com",
+    "project_id": "dreamschat-b49f9",
+    "storage_bucket": "dreamschat-b49f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72787172970:android:c9c2b12e747dca44d1b413",
+        "android_client_info": {
+          "package_name": "com.dreams.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72787172970-8pkrs4rp9s7036glejs4ag37chhdjftg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dreams.chat",
+            "certificate_hash": "ecf121993647aaa65b103799d09544c191dd55a6"
+          }
+        },
+        {
+          "client_id": "72787172970-arfpd2gmhkrc84noq9i3gnbp0gdv1924.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dreams.chat",
+            "certificate_hash": "f229fbe6117011e4e7008ddd2708722586848332"
+          }
+        },
+        {
+          "client_id": "72787172970-1jrpdu89ljsnnj81dmdbohlo3h38bp6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsud6HQH6cygeWOQ7vOsJVmxBiyPRbtqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72787172970-1jrpdu89ljsnnj81dmdbohlo3h38bp6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
